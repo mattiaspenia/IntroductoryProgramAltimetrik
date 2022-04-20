@@ -1,6 +1,13 @@
 # IntroductoryProgramAltimetrik
 Altimetriks BFEDA Project
 
+Hello world! My Name is Matias Peña soy uno de los elegidos para participar del bootcamp de frontend de altimetrik y este es mi repositorio del mismo!
+
+
+
+
+
+
 
 
 https://scrumguides.org/scrum-guide.html
