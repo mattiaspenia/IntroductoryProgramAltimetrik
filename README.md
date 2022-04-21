@@ -5,15 +5,5 @@ Hello world! My Name is Matias Peña soy uno de los elegidos para participar del
 
 
 
+https://docs.google.com/document/d/1HYswfb7wQx9y_v0nczPofPgB_lil7eQ-2EdVpEb15_k/edit#
 
-
-
-
-
-https://scrumguides.org/scrum-guide.html
-https://www.atlassian.com/es/agile/scrum/sprints
-https://www.atlassian.com/es/agile
-https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/
-https://www.alpharithms.com/how-to-create-a-folder-in-github-repos-463022/
-https://education.github.com/git-cheat-sheet-education.pdf
-https://www.w3schools.com/html/default.asp
