@@ -1,7 +1,7 @@
 # IntroductoryProgramAltimetrik
 Altimetriks BFEDA Project
 
-Hello world! My Name is Matias Peña i've been chosen to  participate in the frontend bootcamp for altimetrik and this is my repository!
+Hello world! My Name is Matias Peña i've been chosen to  participate in the frontend bootcamp for altimetrik were im learning html, css javascript and react. And this is my repository!
 
 Here's my google docs file where im documenting the study material 
 
